@@ -1,4 +1,5 @@
 name: fps
 description: Compute frames per second in Dart.
 author: Matan Lurey <matan@lurey.org>
+homepage: https://github.com/matanlurey/fps
 version: 0.1.0
